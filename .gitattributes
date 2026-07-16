@@ -1,0 +1,13 @@
+body_left.stl filter=lfs diff=lfs merge=lfs -text
+body_right.stl filter=lfs diff=lfs merge=lfs -text
+model_base_from_gen.stl filter=lfs diff=lfs merge=lfs -text
+plate.left.stl filter=lfs diff=lfs merge=lfs -text
+pro_micro.stl filter=lfs diff=lfs merge=lfs -text
+body.blend filter=lfs diff=lfs merge=lfs -text
+body.stl filter=lfs diff=lfs merge=lfs -text
+key_hole_test.stl filter=lfs diff=lfs merge=lfs -text
+plate.right.stl filter=lfs diff=lfs merge=lfs -text
+plate.stl filter=lfs diff=lfs merge=lfs -text
+promicro-left.stl filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
